@@ -3,7 +3,7 @@ A tool for easily commit and push changes to Github
 
 Example:
 
-![alt text](https://github.com/stevenlordiam/EasyCommit/blob/master/pic.png "pic")
+![alt text](https://github.com/stevenlordiam/Useful-Python/blob/master/EasyCommit/pic.png "pic")
 
 ###Usage:
 1. change to directory in the script to your git directory
